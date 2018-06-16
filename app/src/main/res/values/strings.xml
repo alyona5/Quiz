@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <!-- Name of the user [CHAR LIMIT=NONE] -->
+    <string name="name">Name</string>
+
+    <!-- Question #1 [CHAR LIMIT=NONE] -->
+    <string name="Question1">1. Rio de Janeiro is the capital of Brazil:</string>
+
+    <!-- Radio button 1 of question 1 [CHAR LIMIT=20] -->
+    <string name="True1">True</string>
+
+    <!-- Radio button 2 of question 1 [CHAR LIMIT=20] -->
+    <string name="False1">False</string>
+
+    <!-- Question #2 [CHAR LIMIT=NONE] -->
+    <string name="Question2">2. Bono is a member of which band:</string>
+
+    <!-- Hint for edit text of question 2 [CHAT LIMIT=20] -->
+    <string name="NameOfTheBand">Name of the band</string>
+
+    <!-- Question #3 [CHAR LIMIT=NONE] -->
+    <string name="Question3">3. In which sport did David Beckham compete?</string>
+
+    <!-- Radio button answer #1 for the questions #3 [CHAR LIMIT=30] -->
+    <string name="Answer3.1">Boxing</string>
+
+    <!-- Radio button#2 for the questions #3 [CHAR LIMIT=30] -->
+    <string name="Answer3.2">Tennis</string>
+
+    <!-- Radio button#3 for the questions #3 [CHAR LIMIT=30] -->
+    <string name="Answer3.3">Weightlifting</string>
+
+    <!-- Radio button #4 for the questions #3 [CHAR LIMIT=30] -->
+    <string name="Answer3.4">Football</string>
+    
+    <!-- Question #4 [CHAR LIMIT=NONE] -->
+    <string name="Question4">4. What is the name of Mickey Mouse\'s wife?</string>
+
+    <!-- Radio button answer #1 for the questions #4 [CHAR LIMIT=30] -->
+    <string name="Answer4.1">Milli Mouse</string>
+
+    <!-- Radio button answer #2 for the questions #4 [CHAR LIMIT=30] -->
+    <string name="Answer4.2">Mini Mouse</string>
+
+    <!-- Radio button answer #3 for the questions #4 [CHAR LIMIT=30] -->
+    <string name="Answer4.3">Minney Mouse</string>
+
+    <!-- Radio button answer #4 for the questions #4 [CHAR LIMIT=30] -->
+    <string name="Answer4.4">Minnie Mouse</string>
+
+    <!--Question #5 [CHAR LIMIT=NONE] -->
+    <string name="Question5">5. The Mona Lisa was painted by Michelangelo.</string>
+
+    <!-- Radio button answer 1 for question #5 [CHAR LIMIT=20] -->
+    <string name="True5">True</string>
+
+    <!-- Radio button answer 2 for question #5 [CHAR LIMIT=20] -->
+    <string name="False5">False</string>
+
+    <!-- Question 6 [CHAR LIMIT=NONE] -->
+    <string name="Question6">6. In which 3 of these years were Star Wars movies released to cinema?</string>
+
+    <!--Checkbox answer 1 for question 6 [CHAR LIMIT=4] -->
+    <string name="Answer6.1">1973</string>
+
+    <!--Checkbox answer 2 for question 6 [CHAR LIMIT=4] -->
+    <string name="Answer6.2">1969</string>
+
+    <!--Checkbox answer 3 for question 6 [CHAR LIMIT=4] -->
+    <string name="Answer6.3">1980</string>
+
+    <!--Checkbox answer 4 for question 6 [CHAR LIMIT=4] -->
+    <string name="Answer6.4">1978</string>
+
+    <!--Checkbox answer 5 for question 6 [CHAR LIMIT=4] -->
+    <string name="Answer6.5">1981</string>
+    
+    <!--Checkbox answer 6 for question 6 [CHAR LIMIT=4] -->
+    <string name="Answer6.6">1977</string>
+
+    <!--Checkbox answer 7 for question 6 [CHAR LIMIT=4] -->
+    <string name="Answer6.7">1983</string>
+
+
+    <!-- Question 7 [CHAR LIMIT=NONE] -->
+    <string name="Question7">7. How many laws of motion did Newton formulate?</string>
+
+    <!-- Submit button at the end of the quiz [CHAR LIMIT=10] -->
+    <string name="Submit_button">Submit</string>
+
+    <!--Score message that pops up ont the screen when the submit button is clicked. 1st part. [CHAR LIMIT=15]-->
+    <string name="Final1"> , you got\u00A0 </string>
+
+    <!--Score message that pops up ont the screen when the submit button is clicked. 2nd part. [CHAR LIMIT=30]-->
+    <string name="Final2"> \u00A0 point(s) out of 7!</string>
+
+    <!--Score message that pops up when maximum amount of points have been achieved. [CHAR LIMIT=30]-->
+    <string name="Final3">Well done! 7 points out of 7! Wohooo!</string>
+
+</resources>
